@@ -11,18 +11,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vansh-2102/DSA/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vansh-2102/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh-2102/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vansh-2102/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vansh-2102/DSA/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vansh-2102/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh-2102/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vansh-2102/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vansh-2102/DSA/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vansh-2102/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh-2102/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vansh-2102/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
 |  |
 | ------- |
