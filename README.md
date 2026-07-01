@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-2102/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vansh-2102/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-2102/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vansh-2102/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Vansh-2102/DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
@@ -65,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-2102/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Vansh-2102/DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
