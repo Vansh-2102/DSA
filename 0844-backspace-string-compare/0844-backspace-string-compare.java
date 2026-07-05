@@ -1,0 +1,24 @@
+class Solution {
+
+    public String buildstring(String s){
+        int n = s.length();
+
+        StringBuilder temp=new StringBuilder();
+
+        int i=0;
+        while(i<n){
+            if(s.charAt(i) != '#'){
+                temp.append(s.charAt(i));
+            }else if(temp.length()>0){
+                temp.deleteCharAt(temp.length()-1);
+            }
+
+            i++;
+        }
+
+        return temp.toString();
+    }
+    public boolean backspaceCompare(String s, String t) {
+        return buildstring(s).equals(buildstring(t));
+    }
+}
