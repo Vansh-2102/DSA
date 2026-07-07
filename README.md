@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vansh-2102/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vansh-2102/DSA/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vansh-2102/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-2102/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Vansh-2102/DSA/tree/master/0844-backspace-string-compare) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vansh-2102/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vansh-2102/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
