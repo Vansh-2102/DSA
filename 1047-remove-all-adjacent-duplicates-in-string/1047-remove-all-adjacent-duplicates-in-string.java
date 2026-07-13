@@ -8,11 +8,12 @@ class Solution {
         for (int i = 1; i < s.length(); i++) {
             c = s.charAt(i);
 
-            if (!st.isEmpty() && c == st.peek()) {
+            if  (!st.isEmpty() && c == st.peek()) {
                 st.pop();
-            } else {
-                st.push(c);
+                continue;
             }
+
+            st.push(c);
         }
 
         String r = "";
@@ -25,7 +26,7 @@ class Solution {
 
         for (int i = 0; i < r.length(); i++) {
 
-            t= r.charAt(i) + t;
+            t = r.charAt(i) + t;
         }
 
         return t;
