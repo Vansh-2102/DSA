@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Vansh-2102/DSA/tree/master/0202-happy-number) |
 | [3099-harshad-number](https://github.com/Vansh-2102/DSA/tree/master/3099-harshad-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh-2102/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Vansh-2102/DSA/tree/master/0986-interval-list-intersections) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh-2102/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
