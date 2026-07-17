@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vansh-2102/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Vansh-2102/DSA/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Vansh-2102/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-2102/DSA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Vansh-2102/DSA/tree/master/0503-next-greater-element-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-2102/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Vansh-2102/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Vansh-2102/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Vansh-2102/DSA/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Vansh-2102/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vansh-2102/DSA/tree/master/0424-longest-repeating-character-replacement) |
