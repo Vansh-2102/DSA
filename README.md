@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Vansh-2102/DSA/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Vansh-2102/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-2102/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Vansh-2102/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Vansh-2102/DSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vansh-2102/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Vansh-2102/DSA/tree/master/0739-daily-temperatures) |
@@ -85,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Vansh-2102/DSA/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vansh-2102/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Vansh-2102/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Vansh-2102/DSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vansh-2102/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Vansh-2102/DSA/tree/master/0739-daily-temperatures) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Vansh-2102/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Vansh-2102/DSA/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Vansh-2102/DSA/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Vansh-2102/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vansh-2102/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Vansh-2102/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vansh-2102/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
