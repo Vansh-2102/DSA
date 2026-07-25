@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vansh-2102/DSA/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh-2102/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3099-harshad-number](https://github.com/Vansh-2102/DSA/tree/master/3099-harshad-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vansh-2102/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh-2102/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vansh-2102/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh-2102/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vansh-2102/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vansh-2102/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
