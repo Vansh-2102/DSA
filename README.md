@@ -209,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh-2102/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Vansh-2102/DSA/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
